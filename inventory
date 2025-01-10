@@ -1,8 +1,15 @@
 192.187.56.20
 192.187.56.30
 
+[web]
+184.73.24.217
+
 [localhost]
-172.31.30.43
+localhost
+
+[localhost:vars]
+Cousre="Devops with AWS"
+Trainer="sivakumar"
 
 [node]
 172.31.17.100
